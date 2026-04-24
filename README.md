@@ -97,7 +97,7 @@ After committing, you can monitor the workflow:
 2. Click the latest workflow run to see progress and logs
 3. Once it completes, go back to the **Code** tab and open the `downloads/` folder to find your files
 
----
+----
 
 ## ⚠️ Notes
 
